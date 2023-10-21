@@ -61,6 +61,10 @@ Here are some ideas to get you started:
 </a>  
 </div>  
 
+## Holopin Hacktoberfest Badges
+[![An image of @jaeakle's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jaeakle)](https://holopin.io/@jaeakle)
+
+
 <br/>  
 
 <div align="center"></div>
