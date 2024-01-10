@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🧑‍🔬Support Assistant at the University of Florida Research Computing 
   
-- 📓 Currently studying Algorithm Abstraction and Design, and Programming Language Concepts  
+- 📓 Currently studying Introduction to Software Engineering, Operating Systems, Security for Marginalized Groups, and Internet Networking Technologies 
   
 - 🌱 I’m currently learning about creating packages for conda
   
