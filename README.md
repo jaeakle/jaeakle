@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
 - 📓 Currently studying Introduction to Software Engineering, Operating Systems, Security for Marginalized Groups, and Internet Networking Technologies 
   
-- 🌱 I’m learning about creating packages for conda
+- 🌱 I’m learning about modding the Linux Kernel
   
 <br/>  
 
