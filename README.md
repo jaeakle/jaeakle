@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 - 🤔 Looking to learn: Everything security! I want to learn more about Web Application Penetration Testing. I would love to learn how to take part in bug bounty programs to contribute my knowledge to the greater community.
 
 - 👯 Contributor to bioconda and conda-forge package repositories
+
+- ⚡ Checkout my personal site for more Information: https://jaeakle.github.io/
   
 <br/>  
 
