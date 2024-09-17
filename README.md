@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hello There  👋
 <!--
 **jaeakle/jaeakle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,14 +13,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## <div align="center">Hello! I am Jack, currently an undergraduate student at the University of Florida :3</div>  
+## <div align="center">Hello! I am Jack, a senior Computer Science student at the University of Florida</div>  
   
 
-- 🧑‍🔬Support Assistant at the University of Florida Research Computing 
+- 🧑‍🔬Helpdesk support at the University of Florida Research Computing.
   
-- 📓 Currently studying Introduction to Software Engineering, Operating Systems, Security for Marginalized Groups, and Internet Networking Technologies 
+- 📓 Currently studying Penetration Testing and Ethical Hacking, Cyber-Physical systems, Networking, Adversarial Tradecraft in Cybersecurity, and Databases. 
   
-- 🌱 I’m learning about modding the Linux Kernel
+- 🌱 Main Interests: Computer security, Penetration Testing, Software Development.
+
+- 🔭 What have I done: NetCat-rs, PawfectMatch, Simple Port Scanner
+
+- 🤔 Looking to learn: Everything security! I want to learn more about Web Application Penetration Testing. I would love to learn how to take part in bug bounty programs to contribute my knowledge to the greater community.
+
+- 👯 Contributor to bioconda and conda-forge package repositories
   
 <br/>  
 
@@ -58,7 +63,6 @@ Here are some ideas to get you started:
 <div align="center">
 <a href="https://www.linkedin.com/in/jack-eakle-a730961b3/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
 </div>  
 
 ## Holopin Hacktoberfest Badges
