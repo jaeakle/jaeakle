@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 👯 Contributor to bioconda and conda-forge package repositories
 
-- ⚡ Checkout my personal site for more information: https://jaeakle.github.io/
+- ⚡ Checkout my personal site for more information: https://jackeakle.com
   
 <br/>  
 
